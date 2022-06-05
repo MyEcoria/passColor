@@ -68,7 +68,7 @@ $toto = '$'.$site.$prenom.$nom.$couleur.'M'
                 <!-- Masthead Avatar Image-->
                 <img class="masthead-avatar mb-5" src="assets/img/password.svg" alt="..." />
                 <!-- Masthead Heading-->
-                <h1 class="masthead-heading text-uppercase mb-0">Password Image 😱</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">PassColor 😱</h1>
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
@@ -80,7 +80,7 @@ $toto = '$'.$site.$prenom.$nom.$couleur.'M'
             </div>
         </header>
         <!-- Portfolio Section-->
-        <section class="page-section portfolio" id="portfolio">
+        <section class="page-section portfolio" id="portfolio" style="text-align: center;">
             <div class="container">
                 <!-- Portfolio Section Heading-->
                 <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">C'est simple !!! 😱</h2>
